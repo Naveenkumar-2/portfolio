@@ -10,9 +10,9 @@
 
 }
 :root{
-    --bg-color: white;
+    --bg-color: #080808;
     --second-bg-color:#131313;
-    --text-color:black;
+    --text-color:white;
     --main-color:#00ffee;
 }
 html{
